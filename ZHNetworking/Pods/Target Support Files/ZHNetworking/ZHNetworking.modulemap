@@ -1,0 +1,6 @@
+framework module ZHNetworking {
+  umbrella header "ZHNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
